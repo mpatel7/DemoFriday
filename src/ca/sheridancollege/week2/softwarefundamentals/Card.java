@@ -16,7 +16,7 @@ public class Card
     private String suit;// hearts, diamonds, spades and clubs
     private int value;//1-13
     int a;//new variable
-    int b;
+    
     
     /**
      * A constructor that creates a Card Object with a given
