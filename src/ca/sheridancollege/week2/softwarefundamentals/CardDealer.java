@@ -8,6 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author megha, 2019
+ * branch MEGHA
  */
 public class CardDealer 
 {
